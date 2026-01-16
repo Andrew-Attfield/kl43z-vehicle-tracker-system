@@ -34,7 +34,7 @@ A multi-stage embedded systems project developed on the Freescale KL43Z (ARM Cor
 
     Tools: MCUXpresso IDE, PuTTY, Linux Terminal.
 
-3. Key Mathematical Models
+Σ Key Mathematical Models
 
 Speed Calculation:
 Speed=Elapsed Time10 meters​×3.6
