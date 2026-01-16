@@ -34,9 +34,7 @@ A multi-stage embedded systems project developed on the Freescale KL43Z (ARM Cor
 
     Tools: MCUXpresso IDE, PuTTY, Linux Terminal.
 
-3. Key Mathematical Models (Include these in your README)
-
-Recruiters love seeing the math behind the code. You can use LaTeX in your README to show the speed and fine logic you implemented:
+3. Key Mathematical Models
 
 Speed Calculation:
 Speed=Elapsed Time10 meters​×3.6
